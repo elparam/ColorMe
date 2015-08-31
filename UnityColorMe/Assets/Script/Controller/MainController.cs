@@ -2,6 +2,7 @@
 
 public class MainController : MonoBehaviour
 {
+    public SpriteRenderer Background;
     public MenuController MenuController;
     public DrawScreenController DrawScreenController;
 
